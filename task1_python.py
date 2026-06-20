@@ -29,16 +29,21 @@
 
 # Comparison With Mixed Types
 
-x = 10
-y = 7
+# x = 10
+# y = 7
 
-print(x>y) # Output is 'True' because x is greater than y.
-print(x<y) # Value of y is not greater than x so it's 'False'
-print(x==y) # Output is 'False' because both x,y value are not same.
-print(x!=y) # Result is 'True' because both are not equal to each other.
+# print(x>y) # Output is 'True' because x is greater than y.
+# print(x<y) # Value of y is not greater than x so it's 'False'
+# print(x==y) # Output is 'False' because both x,y value are not same.
+# print(x!=y) # Result is 'True' because both are not equal to each other.
 
 # Boolean Variables
 
-satus = True
+# status = True
+# print(type(satus))
+
+status = False
+print(type(status))
+
 
 
